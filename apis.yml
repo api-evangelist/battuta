@@ -1,0 +1,32 @@
+aid: battuta
+name: Battuta
+description: "A (country/region/city) in-cascade location API"
+url: http://battuta.medunes.net
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Battuta
+    description: "A (country/region/city) in-cascade location API"
+    humanURL: http://battuta.medunes.net
+    baseURL: http://battuta.medunes.net
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: http://battuta.medunes.net
+common:
+  - type: Website
+    url: http://battuta.medunes.net
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
