@@ -39,7 +39,6 @@ apis:
   - name: Battuta
     description: "A (country/region/city) in-cascade location API"
     humanURL: http://battuta.medunes.net
-    baseURL: http://battuta.medunes.net
     tags:
       - Geocoding
     properties:
